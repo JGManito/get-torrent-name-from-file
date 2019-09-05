@@ -13,9 +13,7 @@ const char* main(int argc, char *argv[])
 	char filename_buff[1000];
 	static char filename[BUFFSIZE];
 	char *varname;
-	//char varname[BUFFSIZE];
 	char *varname2;
-	//char varname2[BUFFSIZE];
 	char *torrentname=NULL;
 	char buff[BUFFSIZE];
 	char buff2[BUFFSIZE];
