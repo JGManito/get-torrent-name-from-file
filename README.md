@@ -1,7 +1,7 @@
 # get-torrent-name-from-file
 Parses the torrent file for the name or path tags and uses those as new filename
 
-This small program arose from the necessity of finding out the contents of around 100 torrent files whose filenames where lost after data recovery. It is provided as-is, with no code clean-up nor variable naming consistency for the moment, and future cleaning is unlikely unless someone messages me to request it (or does a PR).
+This small program arose from the necessity of finding out the contents of around 100 torrent files whose filenames where lost after data recovery. It is provided as-is, with no code clean-up, no removal of debugging lines, no removal of unused variables nor variable naming consistency for the moment, and future cleaning is unlikely unless someone messages me to request it (or does a PR).
 
 This repository contains two files:
  - A C source code file with the parser
